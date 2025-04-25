@@ -26,4 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/devops-final:latest
+          tags: sac2002/devops-final:latest
+
